@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/media.css">
+  <title>Horoscope</title>
+</head>
+<body>
+  <section class="main">
+    <h1>Horoscope</h1>
+    <section class="boxOne floats">
+      <section class="firstContainer">
+        <p>Please Enter Your Birthday</p>
+        <form class="month">
+          <select id="monthChoice" name="">
+            <option value="1">January</option>
+            <option value="2">February</option>
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+            <option value="7">July</option>
+            <option value="8">August</option>
+            <option value="9">September</option>
+            <option value="10">October</option>
+            <option value="11">November</option>
+            <option value="12">December</option>
+          </select>
+          <input type="number" id="day" value="1" min="1" max="31" >
+          <a href="#" id="button">⭐</a>
+        </form>
+      </section>
+    </section>
+    <section class="welcomeArea">
+      <h4>Reveal Your True Self</h4>
+      <section class="horoscope floats">
+        <section class="text"></section>
+        <section class="horoscopeImg"></section>
+      </section>
+    </section>
+  </section>
+  <script src="./js/main.js"></script>
+  <script src="https://kit.fontawesome.com/c0e668a8ad.js" crossorigin="anonymous"></script>
+</body>
+</html>
