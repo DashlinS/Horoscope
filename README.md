@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 🎰 Horoscope 🎰
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🎰 Horoscope 🎰
 
 <p align="center">
   A quick and simple project, but a fun and creative one! Required using the DOM to input my text and pictures. A better solution than displaying it from the HTML. Had to approach it from different solutions which took some time, but it was rewarding.
