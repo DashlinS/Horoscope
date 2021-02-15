@@ -22,7 +22,7 @@ I learned the use between `innerText` and `innerHTML` and how to apply them. I r
 
 Check out some of my other work using the DOM!
 
-* [Slot Machine](https://github.com/DashlinS/SlotMachine)
+* [Slot Machine](https://github.com/DashlinS/SlotMachine/blob/answer/README.md)
 * [Calculator](https://github.com/DashlinS/calculator)
 * [Todo List](https://github.com/DashlinS/ToDo_List)
 * [Rock, Paper, Scissors](https://github.com/DashlinS/rock-water-fire)
