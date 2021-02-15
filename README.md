@@ -1,17 +1,15 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🎰 Horoscope 🎰
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 🎰 Horoscope 🎰
 
 <p align="center">
   A quick and simple project, but a fun and creative one! Required using the DOM to input my text and pictures. A better solution than displaying it from the HTML. Had to approach it from different solutions which took some time, but it was rewarding.
 </p>
+
 &emsp;
-<p align="center">
-<img src="https://github.com/DashlinS/Horoscope/blob/answer/gifs/horoscope.png" width="700">
-</p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://myhoroscope.netlify.app/)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://myhoroscope.netlify.app/)
 
 <p align="center">
-<img src="https://github.com/DashlinS/Horoscope/blob/answer/gifs/horoscopeDemo.gif" width="700">
+<img src="https://github.com/DashlinS/Horoscope/blob/main/gifs/horoscopeDemo.gif" width="700">
 </p>
 
 ## How Its Made 
