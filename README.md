@@ -4,11 +4,12 @@
 
 &emsp;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://myhoroscope.netlify.app/)
 
 
 <img src="https://github.com/DashlinS/Horoscope/blob/main/gifs/horoscopeDemo.gif" width="700">
 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://myhoroscope.netlify.app/)
 
 ## How Its Made 
 
